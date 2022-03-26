@@ -1,0 +1,3 @@
+/home/kali/Workspace/SAS/log4shell/manual-poc/vuln-app/source/src/main/java/com/example/log4shell/LoginServlet.java
+/home/kali/Workspace/SAS/log4shell/manual-poc/vuln-app/source/src/main/java/com/example/log4shell/log4j.java
+/home/kali/Workspace/SAS/log4shell/manual-poc/vuln-app/source/src/main/java/com/example/log4shell/LoginServletFiltered.java
